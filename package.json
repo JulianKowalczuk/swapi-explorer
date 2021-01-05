@@ -9,7 +9,7 @@
     "@types/axios": "^0.14.0",
     "@types/debounce": "^1.2.0",
     "alpha-sort": "^3.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "constate": "^1.1.1",
     "debounce": "^1.2.0",
     "qs": "^6.7.0",
